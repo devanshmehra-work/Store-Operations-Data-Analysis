@@ -15,8 +15,8 @@ Labor Cost Optimization: Successfully maintained a 28% labor-to-sales ratio, a s
 Waste Mitigation: Achieved a 1.4% food waste metric through precise inventory tracking, down from 2%.
 
 Profitability Oversight: Provided real-time visibility into total store profits, which reached $601.30K.
+![Dashboard Preview](Screenshot 2026-05-12 at 23.05.21.jpg)
 
-[Add your Screenshot 2026-05-12 at 23.05.21.jpg here]
 Caption: Final Power BI Dashboard showing regional performance and profit metrics.
 
 🛠️ Technical Implementation
