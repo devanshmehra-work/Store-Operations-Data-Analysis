@@ -15,7 +15,8 @@ Labor Cost Optimization: Successfully maintained a 28% labor-to-sales ratio, a s
 Waste Mitigation: Achieved a 1.4% food waste metric through precise inventory tracking, down from 2%.
 
 Profitability Oversight: Provided real-time visibility into total store profits, which reached $601.30K.
-Screenshot 2026-05-13 at 11.10.24.png
+![Operations Dashboard](Screenshot%202026-05-13%20at%2011.10.24.png)
+
 
 
 
