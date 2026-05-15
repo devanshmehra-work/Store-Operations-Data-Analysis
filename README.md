@@ -32,7 +32,9 @@ Automated KPI Logic: Developed SQL scripts using CASE statements to instantly ca
 
 Data Integrity: Implemented foreign key relationships to ensure sales data remains linked to the correct suburb and state.
 
-[Add your Screenshot 2026-05-13 at 10.31.11.jpg or Screenshot 2026-05-12 at 23.24.20.jpg here]
+![SQL Logic Preview](Screenshot%202026-05-12%20at%2023.24.20.jpg)
+*Caption: PostgreSQL environment in Beekeeper Studio showing table schema and KPI calculation logic.*
+
 Caption: PostgreSQL environment showing table schema and KPI calculation logic.
 
 2. Business Intelligence (Power BI)
