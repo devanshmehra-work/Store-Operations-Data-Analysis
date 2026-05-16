@@ -31,8 +31,7 @@ Schema Design: Engineered stores and daily_metrics tables with optimized data ty
 Automated KPI Logic: Developed SQL scripts using CASE statements to instantly categorize store status as "TARGET MET" or "OVER BUDGET".
 
 Data Integrity: Implemented foreign key relationships to ensure sales data remains linked to the correct suburb and state.
-
-![SQL Logic Preview](Screenshot%202026-05-12%20at%2023.24.20.jpg)
+![Operations Dashboard](Screenshot%202026-05-13%20at%2011.11.36.png)
 *Caption: PostgreSQL environment in Beekeeper Studio showing table schema and KPI calculation logic.*
 
 Caption: PostgreSQL environment showing table schema and KPI calculation logic.
